@@ -1,0 +1,44 @@
+#commentBox {
+    width:50vw;
+    height:auto;
+    margin:0 auto;
+    margin-top:20vh;
+    background-color:white;
+}
+#commentBoxTop {
+    background-color:grey;
+    height:auto;
+}
+#commentBoxType {
+    width:75%;
+    height:10vh;
+    border:none;
+}
+#send {
+    width:10vw;
+    height:2vw;
+    padding-top:0.5vw;
+    float:left;
+    margin-right:5vw;
+    background-color:orange;
+    cursor:pointer;
+}
+#name {
+    float:left;
+    height:2.5vw;
+    width:10vw;
+    margin-left:12.5%;
+    border:none;
+    background-color:gainsboro;
+}
+#buffer {
+    height:2.5vw;
+}
+hr {
+    background-color:orange;
+}
+.name {
+    background-color:grey;
+    width:30vw;
+    margin:0 auto;
+}
